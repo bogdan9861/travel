@@ -115,7 +115,7 @@ export const Main = (props) => {
                             <span className="request__item-value">{message}</span>
                         </div>
                         <div className="request__item">
-                            <span className="request__item-key">Фильтер:</span>
+                            <span className="request__item-key">Фильтр:</span>
                             <span className="request__item-value">
                                 {filterType}
                             </span>
